@@ -1,0 +1,157 @@
+CALL LOAD SETTINGS.
+Startup: 06:11PM on January 22, 2025
+LOADED HOME DIR = 'C:\Program Files\MayTec\MayCad-64\'
+IS FIRST RUN : True
+CID = '277083310172002'
+LOAD SOUND FILE
+    open result: True
+    save result: True
+about to call read_file_resources()
+about to initialise SplashScreen
+--initialised SplashScreen
+about to import the main window
+--imported the main window
+about to import the controller
+--imported the controller
+about to import FDClipboard, model, SceneMap, fdview, render.tree, SnapManager, UndoManager
+--imported FDClipboard, model, SceneMap, fdview, render.tree, SnapManager, UndoManager
+CID = '277083310172002'
+about to import fdproxy
+--imported fdproxy
+https://www.framexpert.com/fd/start/ is enabled. 
+--called getProxy()
+about to import FDLogManager
+--FDLogManager initialised
+about to initialise RenderTree
+--initialised RenderTree
+--initialised Model
+--initialised SceneMap
+--initialised FDClipboard
+--initialised UndoManager
+--initialised SnapManager
+ENCODING IS: utf8
+3D mouse is not enabled in registry
+init_spacemouse TIME: 0.00200009346008
+Qt version is: 4.11.4
+Python version is: 2.7.18 (v2.7.18:8d21aa21f2, Apr 20 2020, 13:25:05) [MSC v.1500 64 bit (AMD64)]
+--initialised FDMainWindow
+--set setWindowIcon
+--initialised View
+--initialised fdcontroller.Controller()
+Grid Step: 0.500000
+returning actions
+--called create_ui()
+--called check_catalog_update()
+--called view.repaint()
+PyOpenGL Version: 3.1.5
+GL Vendor: Intel
+GL Renderer: Intel(R) UHD Graphics 620
+GL Version: 4.6.0 - Build 26.20.100.7926
+UPDATE SURFACE Y-POSITION = 0.0
+SCENE FILE NAME: 
+Enable multisampling
+RELOAD CATALOG.
+...CURRENT SYS ENCODING = 'utf8'
+   TRY CACHED DATA from load_pickle()
+INFO: pickle file path: C:/Program Files/MayTec/MayCad-64\fdcatalogMAYTEC.bindata
+LOADING CATALOG...
+Change Visual Vendor: MAYTEC
+LOAD DATABASE TIME: 1.86999988556
+RELOAD MEASUREMENT: SNAP UNIT = 0.5 (default = 0.5)
+Grid Step: 0.500000
+app.inst().ISMETRICAL = 1
+CREATE VENDOR WIDGETS: ['MAYTEC']
+        check_file_access no file: C:/Users/harsh/AppData/Local/Temp/.framexpert/catalog.db
+FORCED UPDATE = False
+DATABASE HAS UPDATE = False
+GETTING RECENT FILES
+RELOAD MEASUREMENT: SNAP UNIT = 0.5 (default = 0.5)
+Grid Step: 0.500000
+app.inst().ISMETRICAL = 1
+UPDATE SURFACE Y-POSITION = -4.0
+UPDATE SURFACE Y-POSITION = -0.2
+UPDATE SURFACE Y-POSITION = 0.0
+ADD TO RECENT LIST: FILE NAME = C:/Users/harsh/Downloads/SIM RACING COCKPIT DESIGN.scene
+returning actions
+ADD TO RECENT LIST: FILE NAME = C:/Users/harsh/Downloads/SIM RACING COCKPIT DESIGN.scene
+returning actions
+ADD TO RECENT LIST: FILE NAME = C:/Users/harsh/Downloads/SIM RACING COCKPIT DESIGN.scene
+returning actions
+ADD TO RECENT LIST: FILE NAME = C:/Users/harsh/Downloads/SIM RACING COCKPIT DESIGN.scene
+returning actions
+ADD TO RECENT LIST: FILE NAME = C:/Users/harsh/Downloads/SIM RACING COCKPIT DESIGN.scene
+returning actions
+ADD TO RECENT LIST: FILE NAME = C:/Users/harsh/Downloads/SIM RACING COCKPIT DESIGN.scene
+returning actions
+ADD TO RECENT LIST: FILE NAME = C:/Users/harsh/Downloads/SIM RACING COCKPIT DESIGN.scene
+returning actions
+ADD TO RECENT LIST: FILE NAME = C:/Users/harsh/Downloads/SIM RACING COCKPIT DESIGN.scene
+returning actions
+ADD TO RECENT LIST: FILE NAME = C:/Users/harsh/Downloads/SIM RACING COCKPIT DESIGN.scene
+returning actions
+ADD TO RECENT LIST: FILE NAME = C:/Users/harsh/Downloads/SIM RACING COCKPIT DESIGN.scene
+returning actions
+FOCUS: on length
+FOCUS: on length
+ADD TO RECENT LIST: FILE NAME = C:/Users/harsh/Downloads/SIM RACING COCKPIT DESIGN.scene
+returning actions
+ADD TO RECENT LIST: FILE NAME = C:/Users/harsh/Downloads/SIM RACING COCKPIT DESIGN.scene
+returning actions
+USE BACK BUFFER. self._viewscount_backbuffer, self._resolution: 1, 1024
+GROUPS COUNT = 1
+PDF __create_title_page: START
+PDF __create_title_page: FINISH
+GEN. GROUP 0
+PDF __create_page_isometric: START
+PDF __create_page_isometric: FINISH
+PDF __create_page_multiview: START
+PDF __create_page_multiview: FINISH
+PDF __create_sized_view: SKIPPING, not in section list
+PDF __create_sized_view: SKIPPING, not in section list
+PDF __create_sized_view: SKIPPING, not in section list
+PDF __create_page_exploded_view: START
+PDF __create_page_exploded_view: FINISH
+PDF __create_page_assembly_list: START
+PDF __create_page_assembly_list: FINISH
+PDF __create_pages_details: START
+PDF __create_page_cross_bore_details: START
+scale_coeff: 2.5, s_height: 25.0
+scale_coeff: 2.5, s_height: 25.0
+PDF __create_page_cross_bore_details: FINISH
+PDF __create_page_cross_bore_details: START
+scale_coeff: 2.5, s_height: 25.0
+scale_coeff: 2.5, s_height: 25.0
+PDF __create_page_cross_bore_details: FINISH
+PDF __create_page_cross_bore_details: START
+scale_coeff: 2.5, s_height: 43.0
+scale_coeff: 2.5, s_height: 43.0
+PDF __create_page_cross_bore_details: FINISH
+PDF __create_page_cross_bore_details: START
+scale_coeff: 2.5, s_height: 43.0
+scale_coeff: 2.5, s_height: 43.0
+PDF __create_page_cross_bore_details: FINISH
+PDF __create_page_optimized_cut_list: START
+PDF __create_page_optimized_cut_list: FINISH
+PDF __create_pages_assembly_hints: START
+PDF __create_pages_assembly_hints: END
+create_page_isometric       : t1 = 0.10, 2.6
+create_page_multiview       : t2 = 0.54, 13.6
+create_page_exploded_view   : t3 = 0.73, 18.3
+create pages details        : t4 = 0.00, 0.0
+create pages panels         : t5 = 0.00, 0.0
+create pages assembly hints : t6 = 0.05, 1.2
+save pdf file               : ts = 0.39, 9.8
+total time                  : 3.98900017738
+ADD TO RECENT LIST: FILE NAME = C:/Users/harsh/Downloads/SIM RACING COCKPIT DESIGN.scene
+returning actions
+ADD TO RECENT LIST: FILE NAME = C:/Users/harsh/Downloads/SIM RACING COCKPIT DESIGN.scene
+returning actions
+ADD TO RECENT LIST: FILE NAME = C:/Users/harsh/Downloads/SIM RACING COCKPIT DESIGN.scene
+returning actions
+ADD TO RECENT LIST: FILE NAME = C:/Users/harsh/Downloads/SIM RACING COCKPIT DESIGN.scene
+returning actions
+[91m unregister_opers: 'NoneType' object is not iterable, op: <operators.select.SelectOperator object at 0x000000001641ECC8> [0m
+
+Delete Log Manager
+Delete Log Browser
+Delete Class Factory
